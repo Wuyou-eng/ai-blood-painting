@@ -1,0 +1,8 @@
+// 血色月亮升起动画 带经脉特效
+function setup() {
+  createCanvas(800, 600);
+}
+function draw() {
+  background(0);
+  // 写在这里的血祭代码会被AI自动补全// 写在这里的血祭代码会被AI自动补全 @#￥%&*？？？
+}
